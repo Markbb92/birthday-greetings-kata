@@ -9,6 +9,7 @@ test = "pytest test"
 [dev-packages]
 pytest = "*"
 faker = "*"
+freezegun = "*"
 
 [packages]
 
